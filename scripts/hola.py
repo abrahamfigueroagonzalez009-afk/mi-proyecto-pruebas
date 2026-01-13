@@ -4,3 +4,10 @@ nombre=input()
 print("cual es tu edad")
 edad=input()
 print(f"hola, {nombre} , tu edad es {edad} ")
+
+edad=int(input("ingresa tu edad:"))
+
+if edad<=18:
+    [print("eres menor de edad")]
+else:
+    print("eres mayor de edad")
