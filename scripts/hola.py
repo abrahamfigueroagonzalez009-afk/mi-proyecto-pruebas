@@ -8,6 +8,7 @@ print(f"hola, {nombre} , tu edad es {edad} ")
 edad=int(input("ingresa tu edad:"))
 
 if edad<=18:
-    [print("eres menor de edad")]
+    [print("ERES MENOR DE EDAD")]
 else:
-    print("eres mayor de edad")
+    print("ERES MAYOR DE EDAD")
+    
